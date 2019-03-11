@@ -1,0 +1,10 @@
+C:\Users\FlareFlax\Desktop\Programming\C#\ShakespeareReader\ShakespeareReader\bin\Release\ShakespeareReader.exe.config
+C:\Users\FlareFlax\Desktop\Programming\C#\ShakespeareReader\ShakespeareReader\bin\Release\ShakespeareReader.exe
+C:\Users\FlareFlax\Desktop\Programming\C#\ShakespeareReader\ShakespeareReader\bin\Release\ShakespeareReader.pdb
+C:\Users\FlareFlax\Desktop\Programming\C#\ShakespeareReader\ShakespeareReader\obj\Release\ShakespeareReader.csprojAssemblyReference.cache
+C:\Users\FlareFlax\Desktop\Programming\C#\ShakespeareReader\ShakespeareReader\obj\Release\ShakespeareReader.MainScreen.resources
+C:\Users\FlareFlax\Desktop\Programming\C#\ShakespeareReader\ShakespeareReader\obj\Release\ShakespeareReader.Properties.Resources.resources
+C:\Users\FlareFlax\Desktop\Programming\C#\ShakespeareReader\ShakespeareReader\obj\Release\ShakespeareReader.csproj.GenerateResource.cache
+C:\Users\FlareFlax\Desktop\Programming\C#\ShakespeareReader\ShakespeareReader\obj\Release\ShakespeareReader.csproj.CoreCompileInputs.cache
+C:\Users\FlareFlax\Desktop\Programming\C#\ShakespeareReader\ShakespeareReader\obj\Release\ShakespeareReader.exe
+C:\Users\FlareFlax\Desktop\Programming\C#\ShakespeareReader\ShakespeareReader\obj\Release\ShakespeareReader.pdb
